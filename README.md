@@ -1,4 +1,4 @@
-# Aution-Smart-Contract-
+# Aution-Smart-Contract
 for Fundraising
 
 Consider the problem of auction or penny social. ” It is a
